@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EloBuddy.TreeSharp", "EloBuddy.TreeSharp\EloBuddy.TreeSharp.csproj", "{A5F37736-20EC-4428-B3F0-32C92303D7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EloBuddy.TreeSharp.Example", "..\EloBuddy.TreeSharp.Example\EloBuddy.TreeSharp.Example.csproj", "{5A40148E-82D6-4B59-BD1D-04B01A1EAD1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F37736-20EC-4428-B3F0-32C92303D7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F37736-20EC-4428-B3F0-32C92303D7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F37736-20EC-4428-B3F0-32C92303D7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F37736-20EC-4428-B3F0-32C92303D7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A40148E-82D6-4B59-BD1D-04B01A1EAD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A40148E-82D6-4B59-BD1D-04B01A1EAD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A40148E-82D6-4B59-BD1D-04B01A1EAD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A40148E-82D6-4B59-BD1D-04B01A1EAD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
